@@ -1,5 +1,6 @@
-h2 {
-    padding left: 0px;
+
+h2{
+    padding left: 10px;
     padding right: 0px;
     padding top: 0px;
     padding bottom: 10px;
@@ -8,9 +9,15 @@ h2 {
 img {
     float: right;
     border-radius: 100px;
+    padding: 10px;
+    border-right-style: inherit;
+    background-color: coral;
 }
 body {
-    background-color: burlywood;
+    background-color:burlywood;
+    margin: 0px;
+    padding: 0px;
+    display: inline;
 }
 div {
     background-color: coral;
@@ -18,5 +25,13 @@ div {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     text-align: center;
+    /* Add your CSS below this line */
+}
+ol {
+    font-family: monospace;
+    font-style: italic;
+    font-display: block;
+    font-size: large;
+    /* Add your CSS below this line */
 }
  
