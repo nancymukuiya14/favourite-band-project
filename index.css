@@ -1,8 +1,22 @@
-p {
-    
+h2 {
+    padding left: 0px;
+    padding right: 0px;
+    padding top: 0px;
+    padding bottom: 10px;
+}
+ 
+img {
+    float: right;
+    border-radius: 100px;
 }
 body {
-    background-color: turquoise;
+    background-color: burlywood;
 }
-h1 {
+div {
+    background-color: coral;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
 }
+ 
